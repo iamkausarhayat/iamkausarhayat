@@ -24,7 +24,7 @@ Python utility for converting emojis to text descriptions and vice versa.
 
 ## 📫 Connect With Me
 - GitHub: [@iamkausarhayat](https://github.com/iamkausarhayat)
-- Email: hayatkausar033@gmail.com
+- Email: iamkausarhayat100@gmail.com
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamkausarhayat&show_icons=true&theme=radical)
